@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "targetArchitecture": "x86_64",
-            "program": "${fileDirname}/exe/${fileBasenameNoExtension}",
+            "program": "${workspaceRoot}/exe/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
